@@ -1,2 +1,2 @@
 SELECT*
-FROM bakery.products;
+FROM bakery.products; 
